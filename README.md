@@ -1,5 +1,4 @@
 
-
 ## Demo
 
 You can see a live demo of the Kanban board application [here](https://manyamittal05.github.io/Quicksell-Assignment/).
